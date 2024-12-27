@@ -20,6 +20,8 @@ Examples of relational databases:
 3. **Oracle Database**
 4. **Microsoft SQL Server**
 
+
+
 3. State and Explain three classifications of SQL?
 
 * **Data Definition Language (DDL)**: DDL statements are used to define and manage database structures such as tables, indexes, and views. Common DDL commands include:
