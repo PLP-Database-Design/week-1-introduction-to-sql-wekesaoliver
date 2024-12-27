@@ -15,10 +15,10 @@
 A relational database is a type of database that stores and provides access to data points that are related to one another. Data in a relational database is organized into tables (also known as relations), which consist of rows and columns. Each row represents a unique record, and each column represents a field within the record. Relational databases use Structured Query Language (SQL) for defining and manipulating data.
 
 Examples of relational databases:
-1. **MySQL**
-2. **PostgreSQL**
-3. **Oracle Database**
-4. **Microsoft SQL Server**
+* 1. **MySQL**
+* 2. **PostgreSQL**
+* 3. **Oracle Database**
+* 4. **Microsoft SQL Server**
 
 3. State and Explain three classifications of SQL?
 * **Data Definition Language (DDL)**: DDL statements are used to define and manage database structures such as tables, indexes, and views. Common DDL commands include:
