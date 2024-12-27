@@ -23,8 +23,7 @@ Examples of relational databases:
 
 
 3. State and Explain three classifications of SQL?
-
-**Data Definition Language (DDL)**: DDL statements are used to define and manage database structures such as tables, indexes, and views. Common DDL commands include:
+* **Data Definition Language (DDL)**: DDL statements are used to define and manage database structures such as tables, indexes, and views. Common DDL commands include:
     * `CREATE`: Creates a new table, view, or other database object.
     * `ALTER`: Modifies an existing database object.
     * `DROP`: Deletes an existing database object.
